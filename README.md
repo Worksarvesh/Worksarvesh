@@ -23,7 +23,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in Information Technology, Shri Ramdeobaba College of Engineering and Management, Nagpur (2022–2026)
-- 💼 Incoming **Full Stack Developer** at **AssessHub**, Mumbai
 - 🚀 Currently building **ApplyBot AI** — an AI-powered job application automation platform
 - 🧠 I like turning repetitive manual workflows into automated, intelligent systems
 - 📊 Strong foundation in full-stack development *and* data analytics — I build the app **and** make sense of the data behind it
