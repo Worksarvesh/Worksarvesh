@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:14b8a6&height=220&section=header&text=Sarvesh%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Builder&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+ApplyBot+AI+%E2%80%94+AI+job-app+automation;Full+Stack+%2B+AI+integration+is+my+thing;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Gemini+%E2%80%A2+n8n;Turning+manual+workflows+into+automated+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=750&lines=Building+ApplyBot+AI+%E2%80%94+AI+job-app+automation;Full+Stack+%2B+AI+integration+is+my+thing;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Gemini+%E2%80%A2+n8n;Turning+manual+workflows+into+automated+systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -118,9 +118,6 @@ Real-time hand-gesture recognition for hands-free YouTube playback control.
 </p>
 
 > Snake animation needs a one-time GitHub Action setup — see instructions below.
-
----
-
 
 ---
 
