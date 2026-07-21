@@ -90,9 +90,15 @@ Real-time hand-gesture recognition for hands-free YouTube playback control.
 
 ### 📊 GitHub Stats
 
+<!-- If these cards show "Failed to retrieve contributions", it's the shared public
+     instance hitting GitHub's API rate limit — not an issue with your repo.
+     Fix: self-host your own copy at vercel.com from a fork of
+     github.com/anuraghazra/github-readme-stats, then swap the domain below
+     for your own deployment URL. -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Worksarvesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worksarvesh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Worksarvesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Worksarvesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
