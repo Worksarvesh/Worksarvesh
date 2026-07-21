@@ -102,7 +102,7 @@ Real-time hand-gesture recognition for hands-free YouTube playback control.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Worksarvesh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Worksarvesh&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
