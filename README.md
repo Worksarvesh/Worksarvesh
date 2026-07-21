@@ -123,8 +123,14 @@ Real-time hand-gesture recognition for hands-free YouTube playback control.
 
 ### 🏆 Trophies
 
+<!-- The main github-profile-trophy.vercel.app instance is currently overloaded
+     (the maintainer has publicly noted rising server costs). Using a
+     volunteer-hosted mirror below. If this one is ever down too, swap the
+     domain for another mirror listed at:
+     github.com/ryo-ma/github-profile-trophy#special-thanks -->
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Worksarvesh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Worksarvesh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
